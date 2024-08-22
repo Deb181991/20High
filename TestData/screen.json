@@ -1,0 +1,27 @@
+{
+ "emp_details": [
+  {
+   "emp_name": "Subham"
+  },
+  {
+   "emp_name": "Ravi",
+   "email": "deb@geeksforgeeks.org"
+  },
+  {
+   "emp_name": "savi",
+   "email": "deb@geeksforgeeks.org"
+  },
+  {
+   "emp_name": "cavi",
+   "email": "deb@geeksforgeeks.org"
+  },
+  {
+   "emp_name": "cavi",
+   "email": "deb@geeksforgeeks.org"
+  },
+  {
+   "emp_name": "cavi",
+   "email": "deb@geeksforgeeks.org"
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+22-Aug-24 17:35:18- ****** Driver Initialized ******
+22-Aug-24 17:35:19- ****** Url Launched ******
+22-Aug-24 17:35:21- Navigating to https://192.168.0.84
+22-Aug-24 17:35:30- ******Clicking Element ******
+22-Aug-24 17:35:35- ******Clicking Element ******
+22-Aug-24 17:35:35- ******Entering Username **********
+22-Aug-24 17:35:43- ******Enter Data ******
+22-Aug-24 17:35:43- ******Clicking Element ******
+22-Aug-24 17:35:46- Waiting for password to be visible
+22-Aug-24 17:35:46- ************* Waiting For Element *************
+22-Aug-24 17:35:46- ******Enter Data ******
+22-Aug-24 17:35:47- clicking using JS
+22-Aug-24 17:36:07- ****** MouseHover Click an Element ******
+22-Aug-24 17:36:08- ****** MouseHover Click an Element ******
+22-Aug-24 17:36:08- ****** MouseHover Click an Element ******
+22-Aug-24 17:36:08- ******Clicking Element ******
+22-Aug-24 17:36:08- ******Clicking Element ******
+22-Aug-24 17:36:08- ******Clicking Element ******
+22-Aug-24 17:36:09- ******Clicking Element ******
+22-Aug-24 17:36:10- ******Clicking Element ******
+22-Aug-24 17:36:12- ******Clicking Element ******
+22-Aug-24 17:36:16- ******Clicking Element ******
+22-Aug-24 17:36:18- Ruleset
+22-Aug-24 17:36:18- 3660
+22-Aug-24 17:36:18- Ruleset3660
+22-Aug-24 17:36:18- ******Enter Data ******
+22-Aug-24 17:36:18- ******Enter Data ******
+22-Aug-24 17:36:19- ******Clicking Element ******
+22-Aug-24 17:36:19- ******Clicking Element ******
+22-Aug-24 17:36:19- ******Clicking Element ******
+22-Aug-24 17:36:19- ******Clicking Element ******
+22-Aug-24 17:36:21- ******Clicking Element ******
+22-Aug-24 17:36:21- ******Enter Data ******
+22-Aug-24 17:36:27- ******Clicking Element ******
+22-Aug-24 17:36:28- ******Enter Data ******
+22-Aug-24 17:36:31- ******Enter Data ******
+22-Aug-24 17:36:34- ******Clicking Element ******
+22-Aug-24 17:36:35- ******Clicking Element ******
+22-Aug-24 17:36:41- ******Clicking Element ******
+22-Aug-24 17:36:41- ****** MouseHover Click an Element ******
+22-Aug-24 17:36:41- ******Clicking Element ******
+22-Aug-24 17:36:54- ******Clicking Element ******
+22-Aug-24 17:36:55- ******Clicking Element ******
+22-Aug-24 17:36:58- ******Clicking Element ******
+22-Aug-24 17:37:00- ******Clicking Element ******
+22-Aug-24 17:37:01- ******Clicking Element ******
+22-Aug-24 17:37:02- ******Clicking Element ******
+22-Aug-24 17:37:03- ******Clicking Element ******
+22-Aug-24 17:37:03- ******Clicking Element ******
+22-Aug-24 17:37:04- ******Clicking Element ******
+22-Aug-24 17:37:04- ******Clicking Element ******
+22-Aug-24 17:37:05- ******Clicking Element ******
+22-Aug-24 17:37:06- ******Clicking Element ******
+22-Aug-24 17:37:06- ************ Retrieving text *************
+22-Aug-24 17:37:06- ORN01012
+22-Aug-24 17:37:06- ORN01012
+22-Aug-24 17:37:06- ************ Retrieving text *************
+22-Aug-24 17:37:06- GB | GBLBA
+22-Aug-24 17:37:06- ************ Retrieving text *************
+22-Aug-24 17:37:06- GB | GBLIV
+22-Aug-24 17:37:06- ************ Retrieving text *************
+22-Aug-24 17:37:06- INV
+22-Aug-24 17:37:06- ************ Retrieving text *************
+22-Aug-24 17:37:06- ORN01012
+22-Aug-24 17:37:06- ORN01012
+22-Aug-24 17:37:06- ******Clicking Element ******
+22-Aug-24 17:37:08- ************ Retrieving text *************
+22-Aug-24 17:37:08- Order Consolidation Initiated-TN77693269
+22-Aug-24 17:37:08- Order Consolidation Initiated-TN77693269
+22-Aug-24 17:37:08- Order Consolidation Initiated
+22-Aug-24 17:37:08- TN77693269
+22-Aug-24 17:37:09- ******Clicking Element ******
+22-Aug-24 17:37:13- ******Clicking Element ******
+22-Aug-24 17:37:14- ******Enter Data ******
+22-Aug-24 17:37:15- ******Clicking Element ******
+22-Aug-24 17:37:17- ************ Retrieving text *************
+22-Aug-24 17:37:17- FOGBGB50799249
+22-Aug-24 17:37:17- FOGBGB50799249
+22-Aug-24 17:37:17- ******Clicking Element ******

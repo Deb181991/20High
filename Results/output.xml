@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.0.2 (Python 3.10.2 on win32)" generated="20230627 18:18:10.317" rpa="false" schemaversion="3">
+<suite id="s1" name="Google" source="E:\Phoenix_20High\Robot\TestCases\Google.robot">
+<test id="s1-t1" name="My first Robot TestCases Execution" line="9">
+<kw name="Given I open the Browser with URL" library="GoogleResource">
+<kw name="Open Browser" library="SeleniumLibrary">
+<arg>${URL}</arg>
+<arg>${chrome}</arg>
+<arg>options=add_experimental_option("excludeSwitches", ["enable-automation"])</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<msg timestamp="20230627 18:18:10.568" level="INFO">Opening browser 'chrome' to base url 'https://www.google.com/'.</msg>
+<msg timestamp="20230627 18:18:11.847" level="INFO">Cannot capture screenshot because no browser is open.</msg>
+<status status="FAIL" starttime="20230627 18:18:10.567" endtime="20230627 18:18:11.847"/>
+</kw>
+<kw name="Maximize Browser Window" library="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="NOT RUN" starttime="20230627 18:18:11.848" endtime="20230627 18:18:11.848"/>
+</kw>
+<kw name="Set Selenium Implicit Wait" library="SeleniumLibrary">
+<arg>5</arg>
+<doc>Sets the implicit wait value used by Selenium.</doc>
+<status status="NOT RUN" starttime="20230627 18:18:11.848" endtime="20230627 18:18:11.848"/>
+</kw>
+<status status="FAIL" starttime="20230627 18:18:10.566" endtime="20230627 18:18:11.849"/>
+</kw>
+<kw name="Then Click on the I am lucky button" library="GoogleResource">
+<status status="NOT RUN" starttime="20230627 18:18:11.849" endtime="20230627 18:18:11.849"/>
+</kw>
+<kw name="Then Click on the About menu" library="GoogleResource">
+<status status="NOT RUN" starttime="20230627 18:18:11.850" endtime="20230627 18:18:11.850"/>
+</kw>
+<kw name="Then Click on the burining word" library="GoogleResource">
+<status status="NOT RUN" starttime="20230627 18:18:11.851" endtime="20230627 18:18:11.852"/>
+</kw>
+<tag>Smoke</tag>
+<status status="FAIL" starttime="20230627 18:18:10.565" endtime="20230627 18:18:11.853">Execution terminated by signal</status>
+</test>
+<doc>This is my 1st robot script</doc>
+<status status="FAIL" starttime="20230627 18:18:10.319" endtime="20230627 18:18:11.857"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+<stat pass="0" fail="1" skip="0">Smoke</stat>
+</tag>
+<suite>
+<stat pass="0" fail="1" skip="0" id="s1" name="Google">Google</stat>
+</suite>
+</statistics>
+<errors>
+<msg timestamp="20230627 18:18:10.558" level="ERROR">Error in file 'E:\Phoenix_20High\Robot\Resources\GoogleResource.robot' on line 3: Importing library 'RPA.Browser.Selenium' failed: ModuleNotFoundError: No module named 'RPA'
+Traceback (most recent call last):
+  None
+PYTHONPATH:
+  C:\Users\debadatta\AppData\Local\Programs\Python\Python310\Scripts\robot.exe
+  C:\Users\debadatta\AppData\Local\Programs\Python\Python310\python310.zip
+  C:\Users\debadatta\AppData\Local\Programs\Python\Python310\DLLs
+  C:\Users\debadatta\AppData\Local\Programs\Python\Python310\lib
+  C:\Users\debadatta\AppData\Local\Programs\Python\Python310
+  C:\Users\debadatta\AppData\Local\Programs\Python\Python310\lib\site-packages
+  C:\Users\debadatta\AppData\Local\Programs\Python\Python310\lib\site-packages\win32
+  C:\Users\debadatta\AppData\Local\Programs\Python\Python310\lib\site-packages\win32\lib
+  C:\Users\debadatta\AppData\Local\Programs\Python\Python310\lib\site-packages\Pythonwin</msg>
+</errors>
+</robot>
